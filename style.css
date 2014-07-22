@@ -1,3 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 a { 
     text-decoration: none;    
 }
@@ -16,5 +21,12 @@ header {
     text-transform: uppercase;
     color: #fff;
     background-color: #00b4ff;
+}
+
+.wrapper {
+    width: 75%;
+    margin: 0 auto;
+    padding: 80px;
+    background-color: #fff;
 }
     
